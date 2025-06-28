@@ -1,0 +1,6 @@
+keyboard
+pyautogui
+pillow
+PyQt5
+pyinstaller
+pywin32
